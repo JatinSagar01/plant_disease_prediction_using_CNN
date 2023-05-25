@@ -1,1 +1,2 @@
 # plant_disease_prediction_using_CNN
+This is a disease predicting software in tomato plant leaf. It predicts tomato leaf diseases using Convolutional Neural Network(CNN). In this project we propose a CNN based approach for leaf disease prediction that involves collecting a large dataset of images of healthy and diseased leave, pre-processing the images, building and training a CNN model, and evaluating its performance on a test set. 
